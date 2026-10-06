@@ -141,5 +141,3 @@ predictions = pipe.predict(X_test)
 
 print("\nPredicted Marks:")
 print(predictions)
-
-print("Testing Git feature branch")
